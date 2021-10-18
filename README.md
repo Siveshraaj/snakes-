@@ -1,2 +1,0 @@
-# snakes-
-Develop by sivesh
